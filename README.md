@@ -1,1 +1,1 @@
-# shell scripts to install Kubernetes Control and Worker nodes.
+shell scripts to install Kubernetes Control and Worker nodes.
